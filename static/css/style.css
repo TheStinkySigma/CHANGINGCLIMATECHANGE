@@ -1,0 +1,14 @@
+body {
+    background-color: rosybrown;
+    margin: 0; /* Remove default body margins */
+    padding: 0; /* Remove default body padding */
+    height: 100vh; /* Make the background cover the entire viewport height */
+    display: flex; /* Use flexbox for centering (optional) */
+    justify-content: center; /* Center horizontally (optional) */
+    align-items: center; /* Center vertically (optional) */
+}
+
+/* Optional: Add some content to the page if you want */
+/* h1 {
+    color: white;
+} */
